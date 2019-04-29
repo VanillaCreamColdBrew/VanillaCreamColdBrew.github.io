@@ -4,4 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+I'm Infrastructure Architect in my office.<br/>
+But i want to be the other architects.<br/>
+Cloud Architect..? Solution Architect?... <br/>
+Be Any Architect that architecting Everything even My Life!
