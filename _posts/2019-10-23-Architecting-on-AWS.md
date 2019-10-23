@@ -24,15 +24,17 @@ Internet에 연결되어 있다면 언제든지 사용가능.
 
 # AWS Well-Architected Framework
 
->> <i>AWS의 설계 원칙 목표</i>는 보안, 안정성, 비용 최적화, 성능 효율성 그리고 운영 우수성으로 나뉜다.
+>> _AWS의 설계 원칙 목표_ 는 보안, 안정성, 비용 최적화, 성능 효율성 그리고 운영 우수성으로 나뉜다.
 
-1. 보안
+1. **보안**
     정보를 보호하고 손해를 최소화하는 목표.
     Architecture level에서 자격 증명 기반, traceability activation, 모든 layer에 security rule 적용, security best practice 자동화, 전송 및 저장 시 데이터 암호화 등의 basic security guide line 적용. 이를 통해 보안 강화.
 
-2. 안정성
+2. **안정성**
     기존 환경에서는 안정성을 보장하기가 어려움. 단일 장애 지점, 자동화 미비, 탄력성 부족에서 문제가 발생합니다. 안정성 핵심 요소의 아이디어를 적용하면 이러한 문제를 다수 방지할 수 있습니다. HA Architecture, fault tolerance and overall duplication 을 통해서 안정성 취할 수 있음
 
+3. **Cost Optimization**
+    Production의 수명 내내 정교화되고 개선되어야 함. 현재 Architecture
 
 ## Typography Elements in One
 
