@@ -15,7 +15,7 @@ Internet에 연결되어 있다면 언제든지 사용가능.
 
 6 benefits from cloud computing
 
-+ CapEX --> VarEX
+1. CapEX --> VarEX
 2. 규모의 경제
 3. 용량 추정 불필요
 4. Agility & Fast
