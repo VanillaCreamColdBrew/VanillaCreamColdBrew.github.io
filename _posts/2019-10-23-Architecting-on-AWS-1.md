@@ -48,10 +48,8 @@ Internet에 연결되어 있다면 언제든지 사용가능.
 + **Performance Efficiency**
 
     효율적인 리소스를 선택하고 수요 변화에 따라 효율성을 유지가능. Market Place의 vendor가 제공하는 solution을 빠르게 적용해볼 수 있다. 복잡성과 지식은 전문가에게 넘기고 비즈니스에 집중할 수 있음.
-
+===
 # AWS's Global Infrastructure intro.
-
-
 
 ### AWS Data Center
 
