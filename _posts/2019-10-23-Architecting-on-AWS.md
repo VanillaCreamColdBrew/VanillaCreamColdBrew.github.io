@@ -8,12 +8,12 @@ keywords: "Cloud, AWS, Solutions Architect, Associate"
 
 # What is Cloud?
 
->> Cloud Computing
+> Cloud Computing
 Computing resource를 대여해서 사용하는 것.
 Internet에 연결되어 있다면 언제든지 사용가능.
 'Pay as you go'기 때문에 전략을 바꿀때 민첩성에 힘을 실어줌.
 
-6가지 benefit from cloud computing
+6 benefits from cloud computing
 
 1. CapEX --> VarEX
 2. 규모의 경제
