@@ -15,7 +15,7 @@ Internet에 연결되어 있다면 언제든지 사용가능.
 
 6 benefits from cloud computing
 
-1. CapEX --> VarEX
++ CapEX --> VarEX
 2. 규모의 경제
 3. 용량 추정 불필요
 4. Agility & Fast
@@ -24,7 +24,7 @@ Internet에 연결되어 있다면 언제든지 사용가능.
 
 # AWS Well-Architected Framework
 
->> _AWS의 설계 원칙 목표_ 는 보안, 안정성, 비용 최적화, 성능 효율성 그리고 운영 우수성으로 나뉜다.
+> _AWS의 설계 원칙 목표_ 는 보안, 안정성, 비용 최적화, 성능 효율성 그리고 운영 우수성으로 나뉜다.
 
 1. **보안**
     정보를 보호하고 손해를 최소화하는 목표.
