@@ -6,9 +6,33 @@ description: "Quick review purpose"
 keywords: "Cloud, AWS, Solutions Architect, Associate"
 ---
 
-# [Architecting on AWS]
+# What is Cloud?
 
-test
+>> Cloud Computing
+Computing resource를 대여해서 사용하는 것.
+Internet에 연결되어 있다면 언제든지 사용가능.
+'Pay as you go'기 때문에 전략을 바꿀때 민첩성에 힘을 실어줌.
+
+6가지 benefit from cloud computing
+
+1. CapEX --> VarEX
+2. 규모의 경제
+3. 용량 추정 불필요
+4. Agility & Fast
+5. 중요한 문제(Business)에 집중
+6. Go global in minuites
+
+# AWS Well-Architected Framework
+
+>> <i>AWS의 설계 원칙 목표</i>는 보안, 안정성, 비용 최적화, 성능 효율성 그리고 운영 우수성으로 나뉜다.
+
+1. 보안
+    정보를 보호하고 손해를 최소화하는 목표.
+    Architecture level에서 자격 증명 기반, traceability activation, 모든 layer에 security rule 적용, security best practice 자동화, 전송 및 저장 시 데이터 암호화 등의 basic security guide line 적용. 이를 통해 보안 강화.
+
+2. 안정성
+    기존 환경에서는 안정성을 보장하기가 어려움. 단일 장애 지점, 자동화 미비, 탄력성 부족에서 문제가 발생합니다. 안정성 핵심 요소의 아이디어를 적용하면 이러한 문제를 다수 방지할 수 있습니다. HA Architecture, fault tolerance and overall duplication 을 통해서 안정성 취할 수 있음
+
 
 ## Typography Elements in One
 
