@@ -51,6 +51,8 @@ Internet에 연결되어 있다면 언제든지 사용가능.
 
 # AWS's Global Infrastructure intro.
 
+
+
 ### AWS Data Center
 
  > All Data Center of AWS is connected online. 전 세계 여러 region에 cluster 형태로 구축됨. 
