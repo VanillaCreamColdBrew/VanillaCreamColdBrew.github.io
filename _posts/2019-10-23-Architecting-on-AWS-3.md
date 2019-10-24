@@ -25,7 +25,7 @@ keywords: "Cloud, AWS, Solutions Architect, Associate"
 
 * * *
 
--   Virtual Machine을 on-demand 방식으로 이용가능.
+-   Virtual Machine을 on-demand 방식으로 이용가능
 -   Physical Server를 구매하지 않아도 Workload 테스트가 가능.
 -   비용상 이점(짧은 이용시간 고려)
 
@@ -48,7 +48,7 @@ keywords: "Cloud, AWS, Solutions Architect, Associate"
 -   Community AMI(기엄/production 환경 사용 권장 X)
 
 * * *
-
+>
 -   AMI's Features
     -   반복성 : 동일한 AMI에서 시작된 Instance는 서로 똑같은 복제본이기 때문에 클러스터 구축이나 컴퓨팅 환경 재생성이 훨씬 쉽다.
     -   재사용성 : AMI는 EC2 Instance의 전체 구성 및 Contents를 packaging하므로 효율적이고 정확하게 Instance를 계속 다시 사용할 수 있음.
@@ -59,7 +59,6 @@ keywords: "Cloud, AWS, Solutions Architect, Associate"
 * * *
 
 > Userdata를 이용하여 EC2 Instance 시작
-
 -   EC2 인스턴스를 생성할 때, user data를 Instance에 전달할 수 있는 옵션이 있는데, 이를 이욯하여 instance 시작 완료를 자동화 할 수 있습니다. Shell script나 Cloud-init 명령으로 구현 가능.
 -   Instance Metadata Retrieving
     -   <http://169.254.169.254/latest/meta-data>
