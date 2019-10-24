@@ -21,7 +21,7 @@ keywords: "Cloud, AWS, Solutions Architect, Associate"
 
 * * *
 
-### + Virtual Machine과 Physical Server
+### - Virtual Machine과 Physical Server
 
 * * *
 
